@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BTSQL\\QLLN18\\QLLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A56E73EB-BF74-4FE7-9DB0-5A1CD938AAD7}|QLLN\\QLLN.csproj|e:\\btsql\\qlln18\\qlln\\qlln\\nhanvienphucvuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56E73EB-BF74-4FE7-9DB0-5A1CD938AAD7}|QLLN\\QLLN.csproj|solutionrelative:qlln\\nhanvienphucvuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56E73EB-BF74-4FE7-9DB0-5A1CD938AAD7}|QLLN\\QLLN.csproj|e:\\btsql\\qlln18\\qlln\\qlln\\nhanvienphucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56E73EB-BF74-4FE7-9DB0-5A1CD938AAD7}|QLLN\\QLLN.csproj|solutionrelative:qlln\\nhanvienphucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56E73EB-BF74-4FE7-9DB0-5A1CD938AAD7}|QLLN\\QLLN.csproj|e:\\btsql\\qlln18\\qlln\\qlln\\nhanvienphucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A56E73EB-BF74-4FE7-9DB0-5A1CD938AAD7}|QLLN\\QLLN.csproj|solutionrelative:qlln\\nhanvienphucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienPhucVuForm.cs",
+              "DocumentMoniker": "E:\\BTSQL\\QLLN18\\QLLN\\QLLN\\NhanVienPhucVuForm.cs",
+              "RelativeDocumentMoniker": "QLLN\\NhanVienPhucVuForm.cs",
+              "ToolTip": "E:\\BTSQL\\QLLN18\\QLLN\\QLLN\\NhanVienPhucVuForm.cs",
+              "RelativeToolTip": "QLLN\\NhanVienPhucVuForm.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAjwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:53:14.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienPhucVuForm.cs [Design]",
+              "DocumentMoniker": "E:\\BTSQL\\QLLN18\\QLLN\\QLLN\\NhanVienPhucVuForm.cs",
+              "RelativeDocumentMoniker": "QLLN\\NhanVienPhucVuForm.cs",
+              "ToolTip": "E:\\BTSQL\\QLLN18\\QLLN\\QLLN\\NhanVienPhucVuForm.cs [Design]",
+              "RelativeToolTip": "QLLN\\NhanVienPhucVuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:41:34.419Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienPhucVuForm.Designer.cs",
+              "DocumentMoniker": "E:\\BTSQL\\QLLN18\\QLLN\\QLLN\\NhanVienPhucVuForm.Designer.cs",
+              "RelativeDocumentMoniker": "QLLN\\NhanVienPhucVuForm.Designer.cs",
+              "ToolTip": "E:\\BTSQL\\QLLN18\\QLLN\\QLLN\\NhanVienPhucVuForm.Designer.cs",
+              "RelativeToolTip": "QLLN\\NhanVienPhucVuForm.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:36:36.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
